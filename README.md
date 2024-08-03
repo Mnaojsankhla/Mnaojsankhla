@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mnaojsankhla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Manoj Sankhla
+- Web Designing
+- web designing
+- Any interested company
+- You can mail us on manojsankhla001@gmail.com
 
 <!---
 Mnaojsankhla/Mnaojsankhla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
